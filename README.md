@@ -20,7 +20,6 @@ Shopez is a modern, responsive e-commerce web application built with **React** f
 
 ### User Features
 - User registration and login  
-- Browse products with images and descriptions  
 - Search products by name  
 - Add products to cart  
 - Checkout with address details  
